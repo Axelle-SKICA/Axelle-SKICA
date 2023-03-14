@@ -8,7 +8,7 @@ My logical mind and eagerness to learn new skills have led me to web development
 
 Trained as a __Fullstack JavaScript developer (with an API & data specialization)__, Back-end appeals to me more, as well as the opportunity to further my knowledge and learn new languages.
 
-Have a look at my projects on GitHub and don't hesitate to check [my Linkedin profile](www.linkedin.com/in/axelle-skica) !
+Have a look at my projects on GitHub and don't hesitate to check [my LinkedIn profile](https://www.linkedin.com/in/axelle-skica) !
 
 ## Languages and tools
 
