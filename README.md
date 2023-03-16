@@ -17,6 +17,7 @@ Have a look at my projects on GitHub and don't hesitate to check [my LinkedIn pr
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![NodeJS](https://img.shields.io/badge/node-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express-ccc?style=for-the-badge&logo=express&logoColor=black)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge)
 ![Joi](https://img.shields.io/badge/joi-0281fe?style=for-the-badge)
 ![Json Web tokens](https://img.shields.io/badge/JWT-fb005b?style=for-the-badge&logo=jsonwebtokens&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
