@@ -47,5 +47,6 @@ Have a look at my projects on GitHub and don't hesitate to check [my LinkedIn pr
 ![React](https://img.shields.io/badge/react-%232d415c.svg?style=for-the-badge&logo=react&logoColor=%2304D8F9)
 
 ## My stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Axelle-SKICA&theme=dark&background=000000)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axelle-SKICA&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Axelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axelle-SKICA&show_icons=true&count_private=true&include_all_commits=true&theme=monokai&background=000000)](https://github.com/Axelle-SKICA/github-readme-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Axelle-SKICA&theme=monokai&background=000000)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axelle-SKICA&layout=compact&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
