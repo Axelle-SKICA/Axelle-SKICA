@@ -55,5 +55,5 @@ Have a look at my projects on GitHub and don't hesitate to check [my LinkedIn pr
 
 ## My stats
 [![Axelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axelle-SKICA&show_icons=true&count_private=true&include_all_commits=true&theme=monokai&background=000000)](https://github.com/Axelle-SKICA/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axelle-SKICA&layout=compact&theme=monokai&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Axelle-SKICA&layout=compact&theme=monokai&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Axelle-SKICA&theme=monokai&background=000000)](https://git.io/streak-stats)  
