@@ -3,10 +3,11 @@
 ## About me :woman_technologist:
 
 I'm a web developper who used to work in digital marketing :computer: , loves travelling :world_map: , and learned how to crochet & knit :yarn: !  
+You can use [my first API REST in __PHP__](https://github.com/Axelle-SKICA/Hobbies-API-PHP) to learn more about my hobbies :wink:
 
-My logical mind and eagerness to learn new skills have led me to web development and I love it !  
+My logical mind and eagerness to learn new skills have led me to programming and I love it !  
 
-Trained as a __Fullstack JavaScript developer (with an API & data specialization)__, Back-end appeals to me more, as well as the opportunity to further my knowledge and learn new languages.
+Trained as a __Fullstack JavaScript developper__ (with an __API & data specialization__), __Back-end__ appeals to me more, as well as the opportunity to further my knowledge and learn new languages... or even work as a __software developper__ !
 
 Have a look at my projects on GitHub and don't hesitate to check [my LinkedIn profile](https://www.linkedin.com/in/axelle-skica) !
 
@@ -42,9 +43,12 @@ Have a look at my projects on GitHub and don't hesitate to check [my LinkedIn pr
 
 ### Now learning
 
-![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)  
+![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=ffffff)
+![Symfony](https://img.shields.io/badge/symfony-000000?style=for-the-badge&logo=symfony&logoColor=ffffff)
+![Composer](https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=ffffff)  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff)  
-![WAMP](https://img.shields.io/badge/wamp-4B4B4B?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MTIgNTEyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDojRkYwMDk5O30NCjwvc3R5bGU+DQo8Zz4NCgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNDI1LjYsMzEzLjVjMCw2MS42LTQ5LjksMTExLjUtMTExLjUsMTExLjVIMTk3LjljLTYxLjYsMC0xMTEuNS00OS45LTExMS41LTExMS41di0zOS44SDE5djQ1LjcNCgkJQzE5LDQxNC43LDk2LjMsNDkyLDE5MS42LDQ5MmgxMjguOGM5NS4zLDAsMTcyLjYtNzcuMywxNzIuNi0xNzIuNnYtNDUuN2gtNjcuNFYzMTMuNXoiLz4NCgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNODYuNCwxOTkuNUM4Ni40LDEzNy45LDEzNi4zLDg4LDE5Ny45LDg4aDExNi4yYzYxLjYsMCwxMTEuNSw0OS45LDExMS41LDExMS41djQxSDQ5M3YtNDYuOQ0KCQlDNDkzLDk4LjMsNDE1LjcsMjEsMzIwLjQsMjFIMTkxLjZDOTYuMywyMSwxOSw5OC4zLDE5LDE5My42djQ2LjloNjcuNFYxOTkuNXoiLz4NCgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMzIzLDEyMi42djE4Ni42YzAsOC45LTcuMiwxNi4xLTE2LjEsMTYuMWMtOC45LDAtMTYuMS03LjItMTYuMS0xNi4xdi02OC43aC02OS42djY4LjcNCgkJYzAsOC45LTcuMiwxNi4xLTE2LjEsMTYuMWgwYy04LjksMC0xNi4xLTcuMi0xNi4xLTE2LjFWMTIyLjZjLTM5LjEsNi41LTY4LjksNDAuNC02OC45LDgxLjN2MTA1LjJjMCw0NS41LDM2LjksODIuNCw4Mi40LDgyLjRoNS44DQoJCWMxMS4yLDAsMjEuOC0yLjIsMzEuNS02LjNjNS43LTIuNCwxMS4xLTUuNCwxNi4xLTguOWM1LDMuNSwxMC40LDYuNSwxNi4xLDguOWM5LjcsNCwyMC40LDYuMywzMS41LDYuM2g1LjgNCgkJYzQ1LjUsMCw4Mi40LTM2LjksODIuNC04Mi40VjIwMy45QzM5MS45LDE2MywzNjIuMSwxMjkuMSwzMjMsMTIyLjZ6Ii8+DQo8L2c+DQo8L3N2Zz4NCg==)    
+![WAMP](https://img.shields.io/badge/wamp-4B4B4B?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMS4xLjAsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MTIgNTEyOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbDojRkYwMDk5O30NCjwvc3R5bGU+DQo8Zz4NCgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNDI1LjYsMzEzLjVjMCw2MS42LTQ5LjksMTExLjUtMTExLjUsMTExLjVIMTk3LjljLTYxLjYsMC0xMTEuNS00OS45LTExMS41LTExMS41di0zOS44SDE5djQ1LjcNCgkJQzE5LDQxNC43LDk2LjMsNDkyLDE5MS42LDQ5MmgxMjguOGM5NS4zLDAsMTcyLjYtNzcuMywxNzIuNi0xNzIuNnYtNDUuN2gtNjcuNFYzMTMuNXoiLz4NCgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNODYuNCwxOTkuNUM4Ni40LDEzNy45LDEzNi4zLDg4LDE5Ny45LDg4aDExNi4yYzYxLjYsMCwxMTEuNSw0OS45LDExMS41LDExMS41djQxSDQ5M3YtNDYuOQ0KCQlDNDkzLDk4LjMsNDE1LjcsMjEsMzIwLjQsMjFIMTkxLjZDOTYuMywyMSwxOSw5OC4zLDE5LDE5My42djQ2LjloNjcuNFYxOTkuNXoiLz4NCgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMzIzLDEyMi42djE4Ni42YzAsOC45LTcuMiwxNi4xLTE2LjEsMTYuMWMtOC45LDAtMTYuMS03LjItMTYuMS0xNi4xdi02OC43aC02OS42djY4LjcNCgkJYzAsOC45LTcuMiwxNi4xLTE2LjEsMTYuMWgwYy04LjksMC0xNi4xLTcuMi0xNi4xLTE2LjFWMTIyLjZjLTM5LjEsNi41LTY4LjksNDAuNC02OC45LDgxLjN2MTA1LjJjMCw0NS41LDM2LjksODIuNCw4Mi40LDgyLjRoNS44DQoJCWMxMS4yLDAsMjEuOC0yLjIsMzEuNS02LjNjNS43LTIuNCwxMS4xLTUuNCwxNi4xLTguOWM1LDMuNSwxMC40LDYuNSwxNi4xLDguOWM5LjcsNCwyMC40LDYuMywzMS41LDYuM2g1LjgNCgkJYzQ1LjUsMCw4Mi40LTM2LjksODIuNC04Mi40VjIwMy45QzM5MS45LDE2MywzNjIuMSwxMjkuMSwzMjMsMTIyLjZ6Ii8+DQo8L2c+DQo8L3N2Zz4NCg==)  
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=ffffff)
 
 ### What next ?
 ![React](https://img.shields.io/badge/react-%232d415c.svg?style=for-the-badge&logo=react&logoColor=%2304D8F9)
