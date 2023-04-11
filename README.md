@@ -37,9 +37,6 @@ Have a look at my projects on GitHub and don't hesitate to check [my LinkedIn pr
 ![ESLint](https://img.shields.io/badge/eslint-8080F2?style=for-the-badge&logo=eslint)
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Railway](https://img.shields.io/badge/railway-13121d?style=for-the-badge&logo=railway&logoColor=white)  
-![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Whimsical](https://img.shields.io/badge/whimsical-8313DD?style=for-the-badge)
-![MOCODO](https://img.shields.io/badge/mocodo-808080?style=for-the-badge)
 
 ### Now learning
 
