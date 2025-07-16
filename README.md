@@ -1,13 +1,13 @@
 # :sparkles: Axelle SKICA
 
-## About me :woman_technologist:
+## About me (2022) :woman_technologist:
 
 I'm a web developper who used to work in digital marketing :computer: , loves travelling :world_map: , and learned how to crochet & knit :yarn: !  
 You can use [my first API REST in __PHP__](https://github.com/Axelle-SKICA/Hobbies-API-PHP) to learn more about my hobbies :wink:
 
 My logical mind and eagerness to learn new skills have led me to programming and I love it !  
 
-Trained as a __Fullstack JavaScript developper__ (with an __API & data specialization__), __Back-end__ appeals to me more, as well as the opportunity to further my knowledge and learn new languages... or even work as a __software developper__ !
+Trained as a __Fullstack JavaScript developper__ (with an __API & data specialization__), __Back-end__ appeals to me more, as well as the opportunity to further my knowledge and learn new languages... or even work as a __Front-end developper__ !
 
 Have a look at my projects on GitHub and don't hesitate to check [my LinkedIn profile](https://www.linkedin.com/in/axelle-skica) !
 
